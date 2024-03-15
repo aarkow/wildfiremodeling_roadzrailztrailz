@@ -30,10 +30,8 @@ For more information regarding transportation infrastructure on containment effe
 This toolkit represents an ongoing effort to enhance fire management strategies through data-driven analysis, and community contributions are vital for its continuous improvement. Please note that the creators of this toolkit are not professional coders, and therefore, errors may present themselves in the code.  We actively encourage the community to contribute towards optimizing and improving the code. If you have suggestions for enhancements, identify bugs, or find ways to streamline the processes to reduce unnecessary outputs, your input is greatly appreciated. Your expertise and insights are invaluable in refining this toolkit to better serve the needs of the wildfire research and management community. Please reach out with your contributions, feedback, or suggestions to Alexander Arkowitz at aarkowitz@gmail.com or alexander.arkowitz@colostate.edu or log an issue on GitHub.
 
 ### Author Information:
-Alexander Arkowitz, Geospatial Wildfire Research Associate IV, Colorado State University. Contractor, USFS Rocky Mountain Research Station
-Email: aarkowitz@gmail.com, alexander.arkowitz@colostate.edu
-Leo Oniell, USFS
-Email: christopher.oneill@usda.gov
+Alexander Arkowitz, Geospatial Wildfire Research Associate IV, Colorado State University. Contractor, USFS Rocky Mountain Research Station Email: aarkowitz@gmail.com, alexander.arkowitz@colostate.edu
+Leo Oniell, USFS Email: christopher.oneill@usda.gov
 
 ### Acknowledgements:
 Gratitude extends to Ben Gannon for his expertise in wildfire data processing methods.
